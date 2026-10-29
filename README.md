@@ -67,3 +67,10 @@ The primary survival modeling library is [`lifelines`](https://lifelines.readthe
 - Observational data — treatment assignment is not randomized, so associations between drug therapy and survival should not be interpreted causally.
 - Demographic imbalance (69% White) limits generalizability to underrepresented populations.
 - Biomarker data contains substantial missingness, handled via imputation and missingness indicators.
+
+
+## My Contributions — Lindsey Kwon
+
+This repository is a fork of our collaborative Data Science course project at the University of Utah, completed with Abby Chen, Abdelrahman Badawy, and Tara Allred.
+
+My contributions focused on the research background, project objectives, review of clinical data considerations, and discussion of survival analysis methods. I also collaborated with my teammates on project documentation and interpretation.
